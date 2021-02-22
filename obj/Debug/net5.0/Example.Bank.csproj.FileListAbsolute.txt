@@ -1,0 +1,16 @@
+/home/willams/localiza-bootcamp/bank/Example.Bank/bin/Debug/net5.0/Example.Bank
+/home/willams/localiza-bootcamp/bank/Example.Bank/bin/Debug/net5.0/Example.Bank.deps.json
+/home/willams/localiza-bootcamp/bank/Example.Bank/bin/Debug/net5.0/Example.Bank.runtimeconfig.json
+/home/willams/localiza-bootcamp/bank/Example.Bank/bin/Debug/net5.0/Example.Bank.runtimeconfig.dev.json
+/home/willams/localiza-bootcamp/bank/Example.Bank/bin/Debug/net5.0/Example.Bank.dll
+/home/willams/localiza-bootcamp/bank/Example.Bank/bin/Debug/net5.0/ref/Example.Bank.dll
+/home/willams/localiza-bootcamp/bank/Example.Bank/bin/Debug/net5.0/Example.Bank.pdb
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/Example.Bank.csprojAssemblyReference.cache
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/Example.Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/Example.Bank.AssemblyInfoInputs.cache
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/Example.Bank.AssemblyInfo.cs
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/Example.Bank.csproj.CoreCompileInputs.cache
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/Example.Bank.dll
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/ref/Example.Bank.dll
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/Example.Bank.pdb
+/home/willams/localiza-bootcamp/bank/Example.Bank/obj/Debug/net5.0/Example.Bank.genruntimeconfig.cache
